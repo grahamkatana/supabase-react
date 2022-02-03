@@ -1,9 +1,0 @@
-const APP_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJvbGUiOiJhbm9uIiwiaWF0IjoxNjQyNTk3OTE1LCJleHAiOjE5NTgxNzM5MTV9.K-3BQzm5dJJlQgm-koT-0S6GZIRlmSv5G4dLimzGkVI"
-const URL = "https://qokmrszcwpmcmnrkbjrg.supabase.co"
-const SERVICE_ROLE = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJvbGUiOiJzZXJ2aWNlX3JvbGUiLCJpYXQiOjE2NDI1OTc5MTUsImV4cCI6MTk1ODE3MzkxNX0.pUn4wMlQ8uVpq95TIVnu-G8q_Da5GITfmDsso2a4ai8"
-
-export const CREDENTIALS = {
-    APP_KEY : APP_KEY,
-    URL : URL,
-    SERVICE_ROLE:SERVICE_ROLE
-}
